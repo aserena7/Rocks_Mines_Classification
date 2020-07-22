@@ -6,7 +6,7 @@ The aim of this work is focused on the application of Machine Learning procedure
 This work will explore and compare different classification methods with the aim to show the one that gives the most accurate and reliable results in this particular application.
 To accomplish this, unsupervised and supervised approaches are used, including meta classifiers.  
 
-<img src="./final.jpg" alt="final" width="700"/>
+![final](https://user-images.githubusercontent.com/55877748/88174486-a9548900-cc24-11ea-86f2-380e513b97b2.JPG)
 
 The repository contains: 
 - R script - *sonar_script.R*
