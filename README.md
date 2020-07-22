@@ -6,7 +6,7 @@ The aim of this work is focused on the application of Machine Learning procedure
 This work will explore and compare different classification methods with the aim to show the one that gives the most accurate and reliable results in this particular application.
 To accomplish this, unsupervised and supervised approaches are used, including meta classifiers.  
 
-![image](files/Users/Serena/Desktop/UPM/MACHINE LEARNING/assigment 1/images/final.jpg)
+![](files/Users/Serena/Desktop/UPM/MACHINE LEARNING/assigment 1/images/final.jpg)
   
 The repository contains: 
 - R script
